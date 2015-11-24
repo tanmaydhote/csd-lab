@@ -1,0 +1,4 @@
+# Ignore object directory created by pin during build process
+obj-intel64*
+obj-ia32*
+

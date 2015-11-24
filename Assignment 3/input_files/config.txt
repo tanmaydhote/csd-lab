@@ -1,0 +1,10 @@
+Size of the reservation station = 16
+Size of the re-order buffer = 16
+Size of the store buffer = 16
+ADD latency = 2
+SUB latency = 2
+MUL latency = 4
+DIV latency = 4
+AND latency = 1
+OR latency = 1
+XOR latency = 1 
